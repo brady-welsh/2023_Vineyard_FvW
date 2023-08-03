@@ -1,0 +1,59 @@
+sample-id	control	sample-type	stage	vineyard
+#q2:types	categorical	categorical	categorical	categorical
+16S-919-B1	FALSE	berry	T0	Organic
+16S-919-B2	FALSE	berry	T0	Organic
+16S-919-B3	FALSE	berry	T0	Organic
+16S-919-I1-D0	FALSE	inoculated	T1	Organic
+16S-919-I1-D4	FALSE	inoculated	T2	Organic
+16S-919-I1-D6	FALSE	inoculated	T3	Organic
+16S-919-I1-P	FALSE	inoculated	T4	Organic
+16S-919-I2-D0	FALSE	inoculated	T1	Organic
+16S-919-I2-D4	FALSE	inoculated	T2	Organic
+16S-919-I2-D6	FALSE	inoculated	T3	Organic
+16S-919-I2-P	FALSE	inoculated	T4	Organic
+16S-919-I3-D0	FALSE	inoculated	T1	Organic
+16S-919-I3-D4	FALSE	inoculated	T2	Organic
+16S-919-I3-D6	FALSE	inoculated	T3	Organic
+16S-919-I3-P	FALSE	inoculated	T4	Organic
+16S-919-S1-D0	FALSE	wild	T1	Organic
+16S-919-S1-D6	FALSE	wild	T2	Organic
+16S-919-S1-D8	FALSE	wild	T3	Organic
+16S-919-S1-P	FALSE	wild	T4	Organic
+16S-919-S2-D0	FALSE	wild	T1	Organic
+16S-919-S2-D6	FALSE	wild	T2	Organic
+16S-919-S2-D8	FALSE	wild	T3	Organic
+16S-919-S3-D6	FALSE	wild	T2	Organic
+16S-919-S3-D8	FALSE	wild	T3	Organic
+16S-919-S3-P	FALSE	wild	T4	Organic
+16S-EBC-1	TRUE			
+16S-EBC-2	TRUE			
+16S-EBC-3	TRUE			
+16S-EBC-4	TRUE			
+16S-EBC-6	TRUE			
+16S-EBC-7	TRUE			
+16S-GEM-B1	FALSE	berry	T0	Biodynamic
+16S-GEM-B2	FALSE	berry	T0	Biodynamic
+16S-GEM-B3	FALSE	berry	T0	Biodynamic
+16S-GEM-I1-D0	FALSE	inoculated	T1	Biodynamic
+16S-GEM-I1-D10	FALSE	inoculated	T3	Biodynamic
+16S-GEM-I1-D4	FALSE	inoculated	T2	Biodynamic
+16S-GEM-I1-P	FALSE	inoculated	T4	Biodynamic
+16S-GEM-I2-D0	FALSE	inoculated	T1	Biodynamic
+16S-GEM-I2-D10	FALSE	inoculated	T3	Biodynamic
+16S-GEM-I2-D4	FALSE	inoculated	T2	Biodynamic
+16S-GEM-I2-P	FALSE	inoculated	T4	Biodynamic
+16S-GEM-I3-D0	FALSE	inoculated	T1	Biodynamic
+16S-GEM-I3-D10	FALSE	inoculated	T3	Biodynamic
+16S-GEM-I3-D4	FALSE	inoculated	T2	Biodynamic
+16S-GEM-S1-D14	FALSE	wild	T3	Biodynamic
+16S-GEM-S1-P	FALSE	wild	T4	Biodynamic
+16S-HAW-B1	FALSE	berry	T0	Biodynamic
+16S-HAW-B2	FALSE	berry	T0	Biodynamic
+16S-HAW-B3	FALSE	berry	T0	Biodynamic
+16S-HAW-I2-D0	FALSE	inoculated	T1	Biodynamic
+16S-HAW-I2-D12	FALSE	inoculated	T2	Biodynamic
+16S-HAW-S1-D0	FALSE	wild	T1	Biodynamic
+16S-HAW-S1-D8	FALSE	wild	T2	Biodynamic
+16S-HAW-S2-D24	FALSE	wild	T3	Biodynamic
+16S-HAW-S2-P	FALSE	wild	T4	Biodynamic
+16S-HAW-S3-P	FALSE	wild	T4	Biodynamic
